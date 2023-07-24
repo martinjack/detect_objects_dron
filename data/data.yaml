@@ -1,0 +1,22 @@
+path: ../data
+train: images
+val: images
+
+nc: 14
+
+names: [
+  'boat',
+  'building',
+  'buoy',
+  'car',
+  'directionsign',
+  'logger',
+  'parking',
+  'person',
+  'roadcone',
+  'ship',
+  'solarpanel',
+  'tractor',
+  'truck',
+  'wood'
+]

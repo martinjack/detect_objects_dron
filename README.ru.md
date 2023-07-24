@@ -58,6 +58,7 @@ yolov8.ipynb
 # Спасибо
 * [Yolov8](https://github.com/ultralytics/ultralytics)
 * [LabelStudio](https://github.com/HumanSignal/label-studio)
+* [Artlist](https://artlist.io/stock-footage)
 
 ## Примеры
 ![example1](https://github.com/martinjack/detect_objects_dron/blob/master/examples/example1.jpeg?raw=true)
